@@ -1,0 +1,17 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Parallax Template - Materialize</title>
+
+<!-- CSS  -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<style media="screen">
+  .container{
+    width:97% !important;
+  }
+  .card{
+    width:250px !important;
+    margin:0px auto !important;
+  }
+</style>
